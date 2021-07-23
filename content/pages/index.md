@@ -12,7 +12,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Launch within minutes
+    title: Get to value faster with Cloud First
     subtitle: Jumpstart your cloud journey using our free templates
     projects_number: 6
     view_all_label: View All
