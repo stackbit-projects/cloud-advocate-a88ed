@@ -22,7 +22,7 @@ sections:
     grid_items:
       - title: Robert Mutua
         image: images/team-1.png
-        subtitle: 'Co-Founder, Creative Director'
+        subtitle: Global Lead – Cloud and Growth & Strategy
         content: >-
           Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
           euismod nisi porta lorem mollis.
