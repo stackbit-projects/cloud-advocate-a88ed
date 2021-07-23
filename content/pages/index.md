@@ -46,14 +46,10 @@ sections:
     grid_items:
       - title: Cloud strategy
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Become a cloud-first company
+          *   Planning your journey to the cloud
+          *   Robust cloud strategies
       - title: Cloud applications
         image: images/service-2.svg
         content: |-
