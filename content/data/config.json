@@ -34,7 +34,8 @@
                 "style": "button"
             }
         ],
-        "logo": "/images/logo.svg"
+        "logo": "/images/logo.svg",
+        "title": "Agency"
     },
     "footer": {
         "content": "&copy; Cloud Advocate. All rights reserved.",
