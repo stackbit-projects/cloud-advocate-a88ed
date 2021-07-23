@@ -1,9 +1,10 @@
 ---
 title: Calculate AWS Costs in Detail
 excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+  Calculating AWS costs upfront is a challenge. To get accurate numbers, you
+  have to understand the pricing model of the used AWS services. A pricing model
+  consists of one or many pricing dimensions. E.g., GBs stored, number of
+  requests, etc. Keep in mind...
 date: '2020-12-27'
 thumb_image: images/post-3-thumb.jpg
 thumb_image_alt: Black white calendar
