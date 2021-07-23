@@ -1,5 +1,5 @@
 ---
-title: 'How to Replicate Your Data '
+title: How to Replicate Your Data With DynamoDB Global Tables
 excerpt: >-
   Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
