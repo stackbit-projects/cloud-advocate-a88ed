@@ -5,12 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: Digital Marketing Reimagined Through Cloud Native
-    content: >
+    content: >+
+      ![](/images/teaser-front@1140w2x.webp)
+
+
       Would you like to optimize your digital presence and content delivery for
       better customer experiences? [Let's talk](/contact/).
 
-
-      ![](/images/teaser-front@1140w2x-2.webp)
     actions: []
   - type: portfolio_section
     section_id: latest-projects
