@@ -92,7 +92,7 @@ sections:
         subtitle: Engineering Services – Lead
   - type: cta_section
     section_id: cta
-    title: Join our team
+    title: Join Our Team
     content: >
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
