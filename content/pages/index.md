@@ -6,11 +6,13 @@ sections:
     section_id: hero
     title: Get To Value Faster With Cloud First
     content: >
+      ![](/images/1533479.jpg)
+
+
       Would you like to optimize your digital presence and content delivery for
       better customer experiences? [Let's talk](/contact/).
 
-
-      ![](/images/2-2.jpeg)
+         
     actions: []
   - type: portfolio_section
     section_id: latest-projects
