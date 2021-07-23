@@ -78,7 +78,7 @@ sections:
             style: icon
             icon: instagram
             new_window: true
-      - title: Brandon Guidelines
+      - title: Brandon James
         image: images/team-5.png
         content: >-
           Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
