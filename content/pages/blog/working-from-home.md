@@ -1,5 +1,5 @@
 ---
-title: How to Replicate Your Data With DynamoDB Global Tables
+title: Your Data With DynamoDB Global Tables
 excerpt: >-
   In my last post about Multi-Region AWS Architectures, I discussed how you
   could reduce end-user latency and increase availability by running your
