@@ -1,6 +1,6 @@
 ---
 title: Resources
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: Your launchpad for Amazon Web Services
 layout_style: mosaic
 seo:
   title: Portfolio
