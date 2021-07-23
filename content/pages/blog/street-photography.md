@@ -1,5 +1,5 @@
 ---
-title: Choosing the best way to scale EC2 instances on demand
+title: The best way to scale EC2 instances on demand
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
