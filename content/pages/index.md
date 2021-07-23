@@ -17,7 +17,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Get started in m using our free templates
+    title: Get Started In Minutes using our free templates
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
