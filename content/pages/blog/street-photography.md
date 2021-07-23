@@ -3,8 +3,7 @@ title: Choosing the best way to scale EC2 instances on demand
 excerpt: >-
   Migrating workloads into the cloud — and specifically to AWS — comes with many
   advantages. You can operate workloads in new ways. When you only pay for what
-  you use and add capacity within minutes, the world of auto-scaling opens up.
-  When your workload ...
+  you use and add capacity within minutes, ...
 date: '2021-01-05'
 thumb_image: images/post-4-thumb.jpg
 thumb_image_alt: White concrete building
