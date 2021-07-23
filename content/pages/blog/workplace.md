@@ -3,8 +3,7 @@ title: Multi-Region AWS Architectures
 excerpt: >-
   Running an application in multiple availability zones (data centers) in a
   single region is a best practice when architecting on AWS. Interested in
-  learning more about multi-AZ? Take a look at our previous post here. Depending
-  on your availability or lat...
+  learning more about multi-AZ? Take a look at our previous post here.
 date: '2021-02-12'
 thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
