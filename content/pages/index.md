@@ -18,7 +18,6 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Jumpstart your cloud journey using our free cloudformation templates
-    subtitle: Jumpstart your cloud journey using our free cloudformation templates
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
