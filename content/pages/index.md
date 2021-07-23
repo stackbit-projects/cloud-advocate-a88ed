@@ -12,7 +12,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Free Templates
+    title: Launch within minutes
     subtitle: Jumpstart your cloud journey using our free templates
     projects_number: 6
     view_all_label: View All
