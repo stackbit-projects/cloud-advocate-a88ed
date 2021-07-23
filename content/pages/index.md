@@ -17,7 +17,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Get to value faster with our free templates
+    title: Jumpstart your cloud journey using our free cloudformation templates
     subtitle: Jumpstart your cloud journey using our free cloudformation templates
     projects_number: 6
     view_all_label: View All
