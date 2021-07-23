@@ -4,9 +4,6 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      ### Hej, Robert here!
-
-
       We launched the cloudonaut blog in 2021. Since then, we have published 325
       articles: small tips and tricks, best practices, and service reviews. We
       enjoy writing about all things AWS a lot.
