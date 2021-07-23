@@ -33,7 +33,8 @@
                 "url": "/contact/",
                 "style": "button"
             }
-        ]
+        ],
+        "logo": "/images/logo.svg"
     },
     "footer": {
         "content": "&copy; Cloud Advocate. All rights reserved.",
