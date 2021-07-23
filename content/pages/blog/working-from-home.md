@@ -3,8 +3,7 @@ title: How to Replicate Your Data With DynamoDB Global Tables
 excerpt: >-
   In my last post about Multi-Region AWS Architectures, I discussed how you
   could reduce end-user latency and increase availability by running your
-  application in multiple regions. I compared AWS services that help you to run
-  your application in various r...
+  application in multiple regions.
 date: '2021-01-15'
 thumb_image: images/post-5-thumb.jpg
 thumb_image_alt: White wooden table with a chair
