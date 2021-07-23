@@ -1,5 +1,5 @@
 ---
-title: 'Hej,'
+title: Welcome to Cloud Advocate
 hide_title: false
 sections:
   - type: content_section
