@@ -38,7 +38,7 @@ sections:
         image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5
-      - title: You
+      - title: YouSmile
         subtitle: lorem-ipsum
         actions: []
         type: grid_item
