@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Digital Marketing Reimagined Through Cloud Native
+    title: >-
+      The Demand For Digital Transformation , Powered By The Cloud, Has Never
+      Been Greater.
     content: >
       Would you like to optimize your digital presence and content delivery for
       better customer experiences? [Let's talk](/contact/).
