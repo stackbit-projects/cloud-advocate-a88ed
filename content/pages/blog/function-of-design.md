@@ -2,8 +2,10 @@
 title: Unboxing S3 Object Lambda
 subtitle: A interesting tale about function of design
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  Amazon S3 Object Lambda offers a way to execute a Lambda function when someone
+  wants to download a file (GetObject) from an S3 bucket. You can implement
+  whatever logic you wish and return any data as the response via the
+  WriteGetObjectResponse API. Keep...
 date: '2020-01-15'
 thumb_image: images/post-1-thumb.jpg
 thumb_image_alt: White concrete building wall
