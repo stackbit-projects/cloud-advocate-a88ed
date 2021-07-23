@@ -55,7 +55,7 @@ sections:
         content: |
           *   Cloud-native applications
           *   SAP migrations to the AWS cloud
-          *   Software-as-a-service implementations
+          *   SAAS implementations
           *   Workloads assessment
           *   Migrate workloads to the cloud
       - title: Cloud infrastructure
