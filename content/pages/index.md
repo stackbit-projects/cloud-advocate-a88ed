@@ -12,7 +12,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
-    title: Jumpstart with our free templates
+    title: Free Templates
     subtitle: Explore case studies
     projects_number: 6
     view_all_label: View All
