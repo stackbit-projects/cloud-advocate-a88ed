@@ -4,9 +4,9 @@ hide_title: false
 sections:
   - type: content_section
     content: >
-      We launched the cloudonaut blog in 2021. Since then, we have published 325
-      articles: small tips and tricks, best practices, and service reviews. We
-      enjoy writing about all things AWS a lot.
+      We launched the cloud advocate blog in 2021. Since then, we have published
+      325 articles: small tips and tricks, best practices, and service reviews.
+      We enjoy writing about all things AWS a lot.
 
 
       Do you like our blog posts and podcast episodes? Have you learned
