@@ -54,7 +54,7 @@ sections:
           - Design strategy
           - Digital and experience strategy
           - Communication strategy
-      - title: Brand design
+      - title: Cloud applications
         image: images/service-2.svg
         content: |-
           - Brand development
