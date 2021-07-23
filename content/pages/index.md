@@ -60,15 +60,13 @@ sections:
           *   Migrate workloads to the cloud
       - title: Cloud infrastructure
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Private cloud
+          *   Hybrid cloud
+          *   Cloud storage
+          *   Cloud connectivity
+          *   Managed hybrid infrastructure service
+          *   Support services
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
