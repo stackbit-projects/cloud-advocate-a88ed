@@ -41,7 +41,6 @@ sections:
       - title: YouSmile
         actions: []
         type: grid_item
-        image: /images/remarkable-maple.svg
   - type: grid_section
     section_id: services
     title: Services
