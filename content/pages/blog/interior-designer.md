@@ -4,9 +4,10 @@ subtitle: >-
   Interior design is “the art or process of designing the interior, often
   including the exterior, of a room or building”.
 excerpt: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”. An interior designer is
-  someone who coordinates and manages such projects.
+  Writing CloudFormation templates from scratch is a lot of work. You will run
+  into many issues along the way: the documentation is incomplete, magic values
+  are required, unsupported combinations of attributes, etc. The feedback cycles
+  are long. In the en...
 date: '2020-09-26'
 thumb_image: images/post-2-thumb.jpg
 thumb_image_alt: 'Potted plants, candles on a table'
