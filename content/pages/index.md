@@ -40,7 +40,6 @@ sections:
         image_alt: Logo 5
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
