@@ -52,14 +52,12 @@ sections:
           *   Robust cloud strategies
       - title: Cloud applications
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Cloud-native applications
+          *   SAP migrations to the AWS cloud
+          *   Software-as-a-service implementations
+          *   Workloads assessment
+          *   Migrate workloads to the cloud
       - title: Cloud infrastructure
         image: images/service-3.svg
         content: |-
