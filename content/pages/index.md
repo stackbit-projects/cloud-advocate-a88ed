@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Get to value faster with Cloud First.
+    title: Digital Marketing Reimagined Through Cloud Native
     content: >
       Would you like to optimize your digital presence and content delivery for
       better customer experiences? [Let's talk](/contact/).
