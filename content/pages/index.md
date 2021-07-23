@@ -13,7 +13,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Free Templates
-    subtitle: Explore case studies
+    subtitle: Jumpstart your cloud journey using our free templates
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
