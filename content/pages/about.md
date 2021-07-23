@@ -63,7 +63,7 @@ sections:
             new_window: true
       - title: Parsley Montana
         image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
+        subtitle: Lead – Technology and Chief Software Engineer
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
