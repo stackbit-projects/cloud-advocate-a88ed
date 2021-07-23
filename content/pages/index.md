@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Get To Value Faster With Cloud First
+    title: Get To Value Faster Through Cloud First
     content: >
       ![](/images/teaser-front@1140w2x.webp)
 
