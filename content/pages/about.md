@@ -96,8 +96,8 @@ sections:
     content: >
       We are always looking for great people to join our team. If you are
       interested in working for Agency, please send an email to
-      [careers@cloudadvocate.io](mailto:email@example.com) with your CV and
-      which position you are interested in.
+      [careers@cloudadvocate.io](hmailto:careers@cloudadvocate.io) with your CV
+      and which position you are interested in.
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
