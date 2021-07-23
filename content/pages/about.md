@@ -34,7 +34,7 @@ sections:
             new_window: true
       - title: Hilary Ouse
         image: images/team-2.png
-        subtitle: Global Lead – Intelligent Cloud and Infrastructure
+        subtitle: Intelligent Cloud and Infrastructure
         content: >-
           Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
           aliquet nec ullamcorper sit.
