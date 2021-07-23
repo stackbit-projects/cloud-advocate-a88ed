@@ -3,15 +3,19 @@ title: Our Story
 hide_title: false
 sections:
   - type: content_section
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
+    content: >
+      ### Hej, Robert here!
 
 
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      We launched the cloudonaut blog in 2021. Since then, we have published 325
+      articles: small tips and tricks, best practices, and service reviews. We
+      enjoy writing about all things AWS a lot.
+
+
+      Do you like our blog posts and podcast episodes? Have you learned
+      something new? Consider supporting us create in-depth and independent AWS
+      content. Please help us with a monthly or one-time payment through GitHub
+      Sponsors.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
