@@ -1,5 +1,5 @@
 ---
-title: Aimi
+title: Automate provisioning EC2 servers with docker-compose using Ansible
 subtitle: Brand Development
 date: '2020-03-10'
 thumb_image: images/work-branding-1-thumb.jpg
