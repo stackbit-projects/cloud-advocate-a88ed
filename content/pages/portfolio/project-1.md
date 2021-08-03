@@ -1,6 +1,8 @@
 ---
 title: Configure a K8s cluster with Prometheus monitoring and alerting.
-subtitle: Print
+subtitle: >-
+  Deploy a web application inside the cluster with its dependent services and
+  configure monitoring for it
 date: '2020-02-10'
 thumb_image: images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
