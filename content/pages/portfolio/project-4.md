@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Deploy to AWS EC2
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
