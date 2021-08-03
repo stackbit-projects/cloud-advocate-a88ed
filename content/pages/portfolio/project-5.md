@@ -2,7 +2,7 @@
 title: >-
   Dockerize an application, setup a private docker registry on Nexus for saving
   the images
-subtitle: Editorial Design
+subtitle: and setup an end to end CI/CD pipeline to deploy the application
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Nature Magazine preview
