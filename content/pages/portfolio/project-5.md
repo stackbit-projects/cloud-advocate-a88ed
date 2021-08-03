@@ -1,5 +1,5 @@
 ---
-title: 'Dockerize an application, setup a private Nexus repository'
+title: 'Dockerize an application, setup a private docker registry on Nexus'
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
