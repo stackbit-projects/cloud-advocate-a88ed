@@ -1,6 +1,6 @@
 ---
 title: Deploying to Kubernetes cluster on EKS from a complete CI/CD Pipeline
-subtitle: 'With automatic triggering, dynamic versioning and new'
+subtitle: 'With automatic triggering, dynamic versioning for new Docker application image'
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
