@@ -1,5 +1,5 @@
 ---
-title: Deploy to AWS EC2
+title: Deploy to AWS EC2 using docker compose from a complete
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
