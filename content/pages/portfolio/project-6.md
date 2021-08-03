@@ -1,6 +1,6 @@
 ---
 title: Deploying to Kubernetes cluster on EKS from a complete CI/CD Pipeline
-subtitle: Brand Development
+subtitle: With automatic triggering
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
