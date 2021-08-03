@@ -1,6 +1,6 @@
 ---
 title: Write an automated script in Python for monitoring a web application.
-subtitle: Editorial Design
+subtitle: Notifying about the status and recovering the application if not accessible
 date: '2020-04-10'
 thumb_image: images/work-book-cover-1-thumb.jpg
 thumb_image_alt: The Book preview
