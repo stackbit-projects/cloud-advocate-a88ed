@@ -1,5 +1,5 @@
 ---
-title: Deploying to Kubernetes cluster
+title: Deploying to Kubernetes cluster on EKS
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
